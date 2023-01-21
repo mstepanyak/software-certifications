@@ -6,10 +6,10 @@
 - ITIL 4 Foundation Level
 - Software Architecture: Principles and Practices
 - Documenting Software Architectures
+- AWS Certified Solutions Architect – Associate
 - Microsoft Certified Professional
 - MCSA: Web Applications - Certified 2016
 - 70-483 Programming in C#
 - 70-486 Developing ASP.NET MVC Web Applications
-- AWS Certified Solutions Architect – Associate
 
 https://www.youracclaim.com/users/mykhaylo-stepanyak/badges
