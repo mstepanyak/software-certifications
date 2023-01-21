@@ -1,5 +1,7 @@
 # software-certifications
 
+Please find my Software Engineering Certifications below
+
 - TOGAF® 9 Foundation/Certified
 - The Open Group: TOGAF® Digital Enterprise Architecture Team Member 9.2
 - The Open Group Certified: DPBoK™ Foundation
