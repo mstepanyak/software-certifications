@@ -1,5 +1,5 @@
 # software-certifications
-I beleive that certifications are important, along with experience. And becoming certified in subjects related to software engineering means that I am serious about developing my skills in the IT field and am committed to lifelong learning.
+Certifications are important, along with experience. And becoming certified in subjects related to software engineering means that I am serious about developing my skills in the IT field and am committed to lifelong learning.
 Please find my software engineering certifications below.
 
 - TOGAF® 9 Foundation/Certified
