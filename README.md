@@ -11,3 +11,5 @@
 - 70-483 Programming in C#
 - 70-486 Developing ASP.NET MVC Web Applications
 - AWS Certified Solutions Architect – Associate
+
+https://www.youracclaim.com/users/mykhaylo-stepanyak/badges
