@@ -1,6 +1,6 @@
 # software-certifications
-
-Please find my Software Engineering Certifications below
+Becoming certified in subjects related to software engineering means that I am serious about developing my skills in the IT field and am committed to lifelong learning.
+Please find my software engineering certifications below.
 
 - TOGAF® 9 Foundation/Certified
 - The Open Group: TOGAF® Digital Enterprise Architecture Team Member 9.2
