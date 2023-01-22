@@ -1,4 +1,4 @@
-# software-engineering-certifications
+# Professional certifications can help you progress more quickly in your career.
 Certifications are important, along with experience. And becoming certified in subjects related to software engineering means that I am serious about developing my skills in the IT field and am committed to lifelong learning.
 Please find my software engineering certifications below.
 
