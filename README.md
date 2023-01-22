@@ -8,7 +8,7 @@ Please find my software engineering certifications below.
 - ITIL 4 Foundation Level
 - Software Architecture: Principles and Practices
 - Documenting Software Architectures
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect
 - Microsoft Certified Professional
 - MCSA: Web Applications - Certified 2016
 - 70-483 Programming in C#
