@@ -13,6 +13,7 @@ Please find my software engineering certifications below.
 - MCSA: Web Applications - Certified 2016
 - 70-483 Programming in C#
 - 70-486 Developing ASP.NET MVC Web Applications
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
 
 In addition, please find some of my professional achievements at [Credly](https://www.credly.com/users/mykhaylo-stepanyak/badges)
 
